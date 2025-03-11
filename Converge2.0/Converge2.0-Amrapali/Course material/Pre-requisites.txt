@@ -1,0 +1,20 @@
+Angular JS
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+
+Github
+https://github.com/
+
+Javascript reference
+https://www.w3schools.com/js/default.asp
+
+AngularJS
+https://www.w3schools.com/angular/
+https://docs.angularjs.org/guide
+
+Online Javascript Editor
+https://stackblitz.com/edit/js-vau1jjca?file=index.js
+
+
+Contact: 
+Amrapali Nayak
+nayakamu456@gmail.com
